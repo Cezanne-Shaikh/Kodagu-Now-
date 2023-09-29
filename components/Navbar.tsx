@@ -18,7 +18,8 @@ const Navbar = (props: any) => {
           <Image
             src={hambuger}
             alt="hamburgermenu"
-            className="cursor-pointer"
+            className="cursor-pointer "
+            
           />
           <p className="text-xl">WeFrametech </p>
         </div>
